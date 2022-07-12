@@ -108,3 +108,245 @@ Info 68   [18:34:39.852] Finishing updateGraphWorker: Project: /home/tsotetsi/Pr
 Info 69   [18:34:39.853] Different program with same set of files
 Info 70   [18:34:56.991] FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
 Info 71   [18:34:56.991] Elapsed:: 0.13049499690532684ms FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
+Info 72   [18:55:34.899] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 73   [18:55:34.900] Elapsed:: 0.539937000721693ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 74   [18:55:35.155] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 75   [18:55:35.156] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 0.3584650009870529ms
+Info 76   [18:55:37.400] Before ensureProjectForOpenFiles:
+Info 77   [18:55:37.400] After ensureProjectForOpenFiles:
+Info 78   [18:55:37.400] got projects updated in background, updating diagnostics for /home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js
+Info 79   [18:57:01.827] Search path: /home/tsotetsi/Projects/Code/Sandbox/chappy/components/navigation
+Info 80   [18:57:01.828] For info: /home/tsotetsi/Projects/Code/Sandbox/chappy/components/navigation/Nav.js :: Config file name: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 81   [18:57:22.091] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 82   [18:57:22.111] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 19.707389999181032ms
+Info 83   [18:57:22.111] Different program with same set of files
+Info 84   [18:57:22.893] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 85   [18:57:22.904] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 10.960525002330542ms
+Info 86   [18:57:22.904] Different program with same set of files
+Info 87   [18:57:23.049] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 88   [18:57:23.055] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 6.335760999470949ms
+Info 89   [18:57:23.055] Different program with same set of files
+Info 90   [18:57:23.201] getCompletionData: Get current token: 0.023339997977018356
+Info 91   [18:57:23.201] getCompletionData: Is inside comment: 0.004427999258041382
+Info 92   [18:57:23.201] getCompletionData: Get previous token: 0.09230400249361992
+Info 93   [18:57:23.201] getCompletionsAtPosition: isCompletionListBlocker: 0.21675699949264526
+Info 94   [18:57:23.212] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 95   [18:57:23.214] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 1.6832920014858246ms
+Info 96   [18:57:23.214] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 97   [18:57:23.214] 	Files (0)
+
+Info 98   [18:57:23.214] -----------------------------------------------
+Info 99   [18:57:23.214] getExportInfoMap: cache miss or empty; calculating new results
+Info 100  [18:57:23.250] getExportInfoMap: done in 45.61448500305414 ms
+Info 101  [18:57:23.285] collectAutoImports: resolved 79 module specifiers, plus 0 ambient and 214 from cache
+Info 102  [18:57:23.285] collectAutoImports: response is complete
+Info 103  [18:57:23.285] collectAutoImports: 33.1865070015192
+Info 104  [18:57:23.285] getCompletionData: Semantic work: 83.73566700145602
+Info 105  [18:57:23.306] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 20.796817999333143
+Info 106  [18:57:23.313] getCompletionData: Get current token: 0.018021997064352036
+Info 107  [18:57:23.313] getCompletionData: Is inside comment: 0.0026540011167526245
+Info 108  [18:57:23.314] getCompletionData: Get previous token: 0.06868600100278854
+Info 109  [18:57:23.314] getCompletionsAtPosition: isCompletionListBlocker: 0.012387998402118683
+Info 110  [18:57:23.316] getExportInfoMap: cache hit
+Info 111  [18:57:23.340] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 293 from cache
+Info 112  [18:57:23.341] collectAutoImports: response is complete
+Info 113  [18:57:23.341] collectAutoImports: 24.566033001989126
+Info 114  [18:57:23.341] getCompletionData: Semantic work: 27.05750099942088
+Info 115  [18:57:23.364] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 23.474148001521826
+Info 116  [18:57:23.371] getCompletionData: Get current token: 0.026530999690294266
+Info 117  [18:57:23.371] getCompletionData: Is inside comment: 0.0037849992513656616
+Info 118  [18:57:23.371] getCompletionData: Get previous token: 0.09276000037789345
+Info 119  [18:57:23.371] getCompletionsAtPosition: isCompletionListBlocker: 0.023228999227285385
+Info 120  [18:57:23.374] getExportInfoMap: cache hit
+Info 121  [18:57:23.401] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 293 from cache
+Info 122  [18:57:23.401] collectAutoImports: response is complete
+Info 123  [18:57:23.401] collectAutoImports: 26.542602997273207
+Info 124  [18:57:23.401] getCompletionData: Semantic work: 29.90047699958086
+Info 125  [18:57:23.427] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 26.114785000681877
+Info 126  [18:57:23.437] getCompletionData: Get current token: 0.039882998913526535
+Info 127  [18:57:23.437] getCompletionData: Is inside comment: 0.007125001400709152
+Info 128  [18:57:23.437] getCompletionData: Get previous token: 0.10380899906158447
+Info 129  [18:57:23.437] getCompletionsAtPosition: isCompletionListBlocker: 0.02548699826002121
+Info 130  [18:57:23.441] getExportInfoMap: cache hit
+Info 131  [18:57:23.458] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 293 from cache
+Info 132  [18:57:23.458] collectAutoImports: response is complete
+Info 133  [18:57:23.458] collectAutoImports: 16.077305998653173
+Info 134  [18:57:23.458] getCompletionData: Semantic work: 20.938370000571012
+Info 135  [18:57:23.465] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.653392001986504
+Info 136  [18:57:23.477] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 137  [18:57:23.484] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 6.737371999770403ms
+Info 138  [18:57:23.484] Different program with same set of files
+Info 139  [18:57:23.680] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 140  [18:57:23.686] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 19 structureChanged: false structureIsReused:: Completely Elapsed: 5.252141997218132ms
+Info 141  [18:57:23.686] Different program with same set of files
+Info 142  [18:57:23.686] getCompletionData: Get current token: 0.019719000905752182
+Info 143  [18:57:23.686] getCompletionData: Is inside comment: 0.004528999328613281
+Info 144  [18:57:23.686] getCompletionData: Get previous token: 0.13375500217080116
+Info 145  [18:57:23.686] getCompletionsAtPosition: isCompletionListBlocker: 0.013074997812509537
+Info 146  [18:57:23.696] getExportInfoMap: cache hit
+Info 147  [18:57:23.702] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 5 from cache
+Info 148  [18:57:23.702] collectAutoImports: response is complete
+Info 149  [18:57:23.702] collectAutoImports: 4.717506997287273
+Info 150  [18:57:23.702] getCompletionData: Semantic work: 15.538437001407146
+Info 151  [18:57:23.764] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 11.205494999885559
+Info 152  [18:57:24.724] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 153  [18:57:24.732] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 20 structureChanged: false structureIsReused:: Completely Elapsed: 8.38086500018835ms
+Info 154  [18:57:24.732] Different program with same set of files
+Info 155  [18:57:28.636] getCompletionData: Get current token: 0.06218400225043297
+Info 156  [18:57:28.636] getCompletionData: Is inside comment: 0.008648000657558441
+Info 157  [18:57:28.636] getCompletionData: Get previous token: 0.24497199803590775
+Info 158  [18:57:28.637] getCompletionsAtPosition: isCompletionListBlocker: 0.0327019989490509
+Info 159  [18:57:28.648] getExportInfoMap: cache hit
+Info 160  [18:57:28.653] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 0 from cache
+Info 161  [18:57:28.654] collectAutoImports: response is complete
+Info 162  [18:57:28.654] collectAutoImports: 4.413614999502897
+Info 163  [18:57:28.654] getCompletionData: Semantic work: 16.81851600110531
+Info 164  [18:57:28.666] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 11.935431998223066
+Info 165  [18:57:28.844] getCompletionData: Get current token: 0.0648219995200634
+Info 166  [18:57:28.844] getCompletionData: Is inside comment: 0.008466999977827072
+Info 167  [18:57:28.844] getCompletionData: Get previous token: 0.3361480012536049
+Info 168  [18:57:28.845] getCompletionsAtPosition: isCompletionListBlocker: 0.03597300127148628
+Info 169  [18:57:28.852] getExportInfoMap: cache hit
+Info 170  [18:57:28.856] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 0 from cache
+Info 171  [18:57:28.856] collectAutoImports: response is complete
+Info 172  [18:57:28.856] collectAutoImports: 3.4640019983053207
+Info 173  [18:57:28.856] getCompletionData: Semantic work: 11.64606299996376
+Info 174  [18:57:28.867] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 9.944266997277737
+Info 175  [18:57:31.582] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 176  [18:57:31.587] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 21 structureChanged: false structureIsReused:: Completely Elapsed: 5.64275199919939ms
+Info 177  [18:57:31.601] Different program with same set of files
+Info 178  [18:57:43.282] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 179  [18:57:43.299] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 22 structureChanged: false structureIsReused:: Completely Elapsed: 17.252441000193357ms
+Info 180  [18:57:43.299] Different program with same set of files
+Info 181  [18:57:44.469] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 182  [18:57:44.480] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 23 structureChanged: false structureIsReused:: Completely Elapsed: 10.91941400244832ms
+Info 183  [18:57:44.480] Different program with same set of files
+Info 184  [18:57:44.481] getCompletionData: Get current token: 0.02711300179362297
+Info 185  [18:57:44.481] getCompletionData: Is inside comment: 0.05365799739956856
+Info 186  [18:57:44.481] getCompletionData: Get previous token: 0.09506899863481522
+Info 187  [18:57:44.481] getCompletionsAtPosition: isCompletionListBlocker: 0.020374000072479248
+Info 188  [18:57:44.536] getCompletionData: Semantic work: 55.12524900212884
+Info 189  [18:57:44.543] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.849145997315645
+Info 190  [18:57:45.000] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 191  [18:57:45.012] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 24 structureChanged: false structureIsReused:: Completely Elapsed: 11.78167999908328ms
+Info 192  [18:57:45.012] Different program with same set of files
+Info 193  [18:57:46.486] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 194  [18:57:46.500] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 25 structureChanged: false structureIsReused:: Completely Elapsed: 13.23607100173831ms
+Info 195  [18:57:46.500] Different program with same set of files
+Info 196  [18:57:48.599] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 197  [18:57:48.608] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 26 structureChanged: false structureIsReused:: Completely Elapsed: 8.752535998821259ms
+Info 198  [18:57:48.619] Different program with same set of files
+Info 199  [18:57:50.032] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 200  [18:57:50.040] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 27 structureChanged: false structureIsReused:: Completely Elapsed: 7.264751002192497ms
+Info 201  [18:57:50.040] Different program with same set of files
+Info 202  [18:57:50.147] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 203  [18:57:50.151] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 28 structureChanged: false structureIsReused:: Completely Elapsed: 4.09222099930048ms
+Info 204  [18:57:50.151] Different program with same set of files
+Info 205  [18:57:50.290] getCompletionData: Get current token: 0.07133500277996063
+Info 206  [18:57:50.290] getCompletionData: Is inside comment: 0.00543300062417984
+Info 207  [18:57:50.290] getCompletionData: Get previous token: 0.08562200143933296
+Info 208  [18:57:50.290] getCompletionsAtPosition: isCompletionListBlocker: 0.005362998694181442
+Info 209  [18:57:50.300] getExportInfoMap: cache hit
+Info 210  [18:57:50.322] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 293 from cache
+Info 211  [18:57:50.322] collectAutoImports: response is complete
+Info 212  [18:57:50.322] collectAutoImports: 21.416298002004623
+Info 213  [18:57:50.322] getCompletionData: Semantic work: 32.08897100016475
+Info 214  [18:57:50.338] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 16.132017999887466
+Info 215  [18:57:50.358] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 216  [18:57:50.370] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 29 structureChanged: false structureIsReused:: Completely Elapsed: 12.031947001814842ms
+Info 217  [18:57:50.370] Different program with same set of files
+Info 218  [18:57:50.371] getCompletionData: Get current token: 0.03406699746847153
+Info 219  [18:57:50.371] getCompletionData: Is inside comment: 0.0036309994757175446
+Info 220  [18:57:50.371] getCompletionData: Get previous token: 0.12957900017499924
+Info 221  [18:57:50.371] getCompletionsAtPosition: isCompletionListBlocker: 0.009500999003648758
+Info 222  [18:57:50.383] getExportInfoMap: cache hit
+Info 223  [18:57:50.388] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 6 from cache
+Info 224  [18:57:50.388] collectAutoImports: response is complete
+Info 225  [18:57:50.388] collectAutoImports: 3.7429159991443157
+Info 226  [18:57:50.388] getCompletionData: Semantic work: 16.750189002603292
+Info 227  [18:57:50.454] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.492331001907587
+Info 228  [18:57:50.722] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 229  [18:57:50.733] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 30 structureChanged: false structureIsReused:: Completely Elapsed: 10.347715999931097ms
+Info 230  [18:57:50.733] Different program with same set of files
+Info 231  [18:57:51.725] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 232  [18:57:51.735] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 31 structureChanged: false structureIsReused:: Completely Elapsed: 9.92900099977851ms
+Info 233  [18:57:51.735] Different program with same set of files
+Info 234  [18:58:14.293] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 235  [18:58:14.294] Elapsed:: 1.1031950004398823ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 236  [18:58:14.296] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/development :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 237  [18:58:14.296] Elapsed:: 0.14267400279641151ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/development :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 238  [18:58:14.296] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 239  [18:58:14.296] Elapsed:: 0.10628499835729599ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 240  [18:58:14.302] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks/pages :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 241  [18:58:14.303] Elapsed:: 0.1625399999320507ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks/pages :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 242  [18:58:14.303] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 243  [18:58:14.303] Elapsed:: 0.11064499989151955ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 244  [18:58:14.303] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 245  [18:58:14.304] Elapsed:: 0.09800699725747108ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static/chunks :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 246  [18:58:14.304] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 247  [18:58:14.304] Elapsed:: 0.09893700107932091ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/static :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 248  [18:58:14.556] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 249  [18:58:14.556] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 32 structureChanged: false structureIsReused:: Completely Elapsed: 0.33334700018167496ms
+Info 250  [18:58:16.013] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 251  [18:58:16.013] Elapsed:: 0.13004999980330467ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 252  [18:58:16.269] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 253  [18:58:16.270] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 33 structureChanged: false structureIsReused:: Completely Elapsed: 0.643325001001358ms
+Info 254  [18:58:17.612] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 255  [18:58:17.612] Elapsed:: 0.10517100244760513ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 256  [18:58:17.865] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 257  [18:58:17.865] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 34 structureChanged: false structureIsReused:: Completely Elapsed: 0.2856010012328625ms
+Info 258  [18:58:20.113] Before ensureProjectForOpenFiles:
+Info 259  [18:58:20.113] After ensureProjectForOpenFiles:
+Info 260  [18:58:20.113] got projects updated in background, updating diagnostics for /home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js,/home/tsotetsi/Projects/Code/Sandbox/chappy/components/navigation/Nav.js
+Info 261  [18:58:20.141] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 262  [18:58:20.141] Elapsed:: 0.10235299915075302ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy :: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 263  [18:58:20.215] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 264  [18:58:20.215] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 35 structureChanged: false structureIsReused:: Completely Elapsed: 0.3731760010123253ms
+Info 265  [18:58:22.524] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/next-server.js.nft.json 0:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 266  [18:58:22.524] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/next-server.js.nft.json
+Info 267  [18:58:22.525] Elapsed:: 0.376010999083519ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/next-server.js.nft.json 0:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 268  [18:58:22.525] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/BUILD_ID 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 269  [18:58:22.525] Elapsed:: 0.3554459996521473ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/BUILD_ID 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 270  [18:58:22.525] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/required-server-files.json 2:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 271  [18:58:22.525] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/required-server-files.json
+Info 272  [18:58:22.525] Elapsed:: 0.14472199976444244ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/required-server-files.json 2:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 273  [18:58:22.525] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export 3:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 274  [18:58:22.525] Elapsed:: 0.1149200014770031ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export 3:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 275  [18:58:22.525] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json 4:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 276  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json
+Info 277  [18:58:22.526] Elapsed:: 0.0666700005531311ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json 4:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 278  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export 5:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 279  [18:58:22.526] Elapsed:: 0.06901099905371666ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export 5:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 280  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/prerender-manifest.json 6:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 281  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/prerender-manifest.json
+Info 282  [18:58:22.526] Elapsed:: 0.053624000400304794ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/prerender-manifest.json 6:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 283  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/images-manifest.json 7:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 284  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/images-manifest.json
+Info 285  [18:58:22.526] Elapsed:: 0.04243699833750725ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/images-manifest.json 7:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 286  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-marker.json 8:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 287  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-marker.json
+Info 288  [18:58:22.526] Elapsed:: 0.046320002526044846ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-marker.json 8:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 289  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json 9:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 290  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json
+Info 291  [18:58:22.526] Elapsed:: 0.0402039997279644ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/export-detail.json 9:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 292  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/cache/next-server.js.nft.json 10:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 293  [18:58:22.526] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/cache/next-server.js.nft.json
+Info 294  [18:58:22.526] Elapsed:: 0.04251600056886673ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/cache/next-server.js.nft.json 10:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 295  [18:58:22.526] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/index.js 11:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 296  [18:58:22.527] Elapsed:: 0.36938100308179855ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/index.js 11:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 297  [18:58:22.527] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/404.html 12:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 298  [18:58:22.527] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/404.html
+Info 299  [18:58:22.527] Elapsed:: 0.0881120003759861ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/404.html 12:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 300  [18:58:22.527] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/500.html 13:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 301  [18:58:22.527] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/500.html
+Info 302  [18:58:22.527] Elapsed:: 0.050050001591444016ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/500.html 13:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 303  [18:58:22.527] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/index.html 14:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 304  [18:58:22.527] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/index.html
+Info 305  [18:58:22.527] Elapsed:: 0.04646100103855133ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.next/server/pages/index.html 14:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 306  [18:58:22.778] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 307  [18:58:22.779] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 36 structureChanged: false structureIsReused:: Completely Elapsed: 0.9802969992160797ms
+Info 308  [18:58:25.026] Before ensureProjectForOpenFiles:
+Info 309  [18:58:25.026] After ensureProjectForOpenFiles:
+Info 310  [18:58:25.027] got projects updated in background, updating diagnostics for /home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js,/home/tsotetsi/Projects/Code/Sandbox/chappy/components/navigation/Nav.js
+Info 311  [19:01:27.761] FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
+Info 312  [19:01:27.762] Elapsed:: 1.2583459988236427ms FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file

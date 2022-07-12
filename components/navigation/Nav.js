@@ -28,9 +28,9 @@ const ChangeNav = () =>
         <button onClick={ChangeNav}>Good Morning</button>
         {Nav ?
           <ul>
-            <li>        {Links.map((page) => (
+            <li>        {Links.map((page, index) => (
 
-              <Link href={page.url}>
+              <Link key={index} href={page.url}>
                 <a>
                   {page.name}
                 </a>
