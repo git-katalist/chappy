@@ -1,0 +1,110 @@
+Info 0    [18:32:14.902] Starting TS Server
+Info 1    [18:32:14.902] Version: 4.7.4
+Info 2    [18:32:14.902] Arguments: /usr/bin/node /home/tsotetsi/Projects/Code/Sandbox/chappy/node_modules/typescript/lib/tsserver.js --logFile /home/tsotetsi/Projects/Code/Sandbox/chappy/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/ec55fe30ecd574edb80785b61e96d3f7/tscancellation*
+Info 3    [18:32:14.902] Platform: linux NodeVersion: 18 CaseSensitive: true
+Info 4    [18:32:14.902] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [18:32:14.913] Format host information updated
+Info 6    [18:32:14.921] Search path: /home/tsotetsi/Projects/Code/Sandbox/chappy
+Info 7    [18:32:14.922] For info: /home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js :: Config file name: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 8    [18:32:14.922] Creating configuration project /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 9    [18:32:14.950] Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json : {
+ "rootNames": [
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/components/footer/Footer.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/components/hero/Hero.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/components/navigation/Nav.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/pages/_app.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/pages/_document.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/pages/index.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/pages/api/hello.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/styles/Global.js",
+  "/home/tsotetsi/Projects/Code/Sandbox/chappy/styles/Theme.js"
+ ],
+ "options": {
+  "allowJs": true,
+  "maxNodeModuleJsDepth": 2,
+  "allowSyntheticDefaultImports": true,
+  "skipLibCheck": true,
+  "noEmit": true,
+  "baseUrl": "/home/tsotetsi/Projects/Code/Sandbox/chappy",
+  "paths": {
+   "@Components/*": [
+    "./components/*"
+   ],
+   "Recipes/*": [
+    "./pages/noodles/recipes/*"
+   ],
+   "Styles/*": [
+    "./Styles/*"
+   ]
+  },
+  "pathsBasePath": "/home/tsotetsi/Projects/Code/Sandbox/chappy",
+  "configFilePath": "/home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json"
+ }
+}
+Info 10   [18:32:15.013] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 11   [18:32:15.905] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 892.438395999372ms
+Info 12   [18:32:15.906] Project '/home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json' (Configured)
+Info 13   [18:32:15.906] 	Files (188)
+
+Info 14   [18:32:15.906] -----------------------------------------------
+Info 15   [18:32:15.913] AutoImportProviderProject: found 1 root files in 1 dependencies in 5.211157001554966 ms
+Info 16   [18:32:15.913] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 17   [18:32:15.918] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 4.546459998935461ms
+Info 18   [18:32:15.918] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 19   [18:32:15.918] 	Files (6)
+
+Info 20   [18:32:15.918] -----------------------------------------------
+Info 21   [18:32:16.951] DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.log/ti-375715.log 0:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 22   [18:32:16.952] Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Detected file add/remove of non supported extension: /home/tsotetsi/Projects/Code/Sandbox/chappy/.log/ti-375715.log
+Info 23   [18:32:16.953] Elapsed:: 1.058729000389576ms DirectoryWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/.log/ti-375715.log 0:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy 1 undefined Config: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json WatchType: Wild card directory
+Info 24   [18:32:17.090] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 25   [18:32:17.148] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 58.51041500270367ms
+Info 26   [18:32:17.148] Project '/home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json' (Configured)
+Info 27   [18:32:17.148] 	Files (193)
+
+Info 28   [18:32:17.148] -----------------------------------------------
+Info 29   [18:32:17.148] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 30   [18:32:17.148] 	Files (6)
+
+Info 31   [18:32:17.148] -----------------------------------------------
+Info 32   [18:32:19.340] Before ensureProjectForOpenFiles:
+Info 33   [18:32:19.340] After ensureProjectForOpenFiles:
+Info 34   [18:32:19.341] got projects updated in background, updating diagnostics for /home/tsotetsi/Projects/Code/Sandbox/chappy/next.config.js
+Info 35   [18:33:10.392] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 36   [18:33:10.416] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 23.675045002251863ms
+Info 37   [18:33:10.416] Different program with same set of files
+Info 38   [18:33:11.630] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 39   [18:33:11.650] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 19.521793000400066ms
+Info 40   [18:33:11.650] Different program with same set of files
+Info 41   [18:33:11.893] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 42   [18:33:11.908] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 14.536054000258446ms
+Info 43   [18:33:11.908] Different program with same set of files
+Info 44   [18:33:24.262] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 45   [18:33:24.281] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 18.291203003376722ms
+Info 46   [18:33:24.281] Different program with same set of files
+Info 47   [18:34:26.980] FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
+Info 48   [18:34:26.981] Elapsed:: 0.4495289996266365ms FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
+Info 49   [18:34:36.327] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 50   [18:34:36.343] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 16.111602999269962ms
+Info 51   [18:34:36.343] Different program with same set of files
+Info 52   [18:34:36.558] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 53   [18:34:36.580] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 21.406270999461412ms
+Info 54   [18:34:36.580] Different program with same set of files
+Info 55   [18:34:36.925] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 56   [18:34:36.937] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 11.241390001028776ms
+Info 57   [18:34:36.937] Different program with same set of files
+Info 58   [18:34:37.784] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 59   [18:34:37.795] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 10.131063003093004ms
+Info 60   [18:34:37.795] Different program with same set of files
+Info 61   [18:34:38.158] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 62   [18:34:38.180] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 21.273543000221252ms
+Info 63   [18:34:38.180] Different program with same set of files
+Info 64   [18:34:38.181] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 65   [18:34:38.192] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 11.078914999961853ms
+Info 66   [18:34:38.192] Different program with same set of files
+Info 67   [18:34:39.843] Starting updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json
+Info 68   [18:34:39.852] Finishing updateGraphWorker: Project: /home/tsotetsi/Projects/Code/Sandbox/chappy/jsconfig.json Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 9.63706500083208ms
+Info 69   [18:34:39.853] Different program with same set of files
+Info 70   [18:34:56.991] FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
+Info 71   [18:34:56.991] Elapsed:: 0.13049499690532684ms FileWatcher:: Triggered with /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 1:: WatchInfo: /home/tsotetsi/Projects/Code/Sandbox/chappy/package.json 250 undefined WatchType: package.json file
